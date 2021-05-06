@@ -1,7 +1,7 @@
 # Are You a Robot?
 
 A chatbot is a kind of software, written to facilitate or ‘simulate’ conversations between a computer program and a human-agent. A popular, flexible scripting language for producing this kind of software is ‘Rivescript’ which you will be using to write your chatbots.
-
+W
 Scripting chatbots can be a form of creative research, writing and design simultaneously –
 one that asks you (the designer) to empathise, evaluate and develop an ‘identity’ other than your own and which can ‘speak’ on it’s own terms.
 
