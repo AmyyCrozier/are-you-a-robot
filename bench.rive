@@ -1,0 +1,91 @@
+! version = 2.0
+
++ hello
+- Hello! I am Bodhi the Bench! What is your name?
+
++ _
+% hello what is your name
+- Nice to meet you <formal>!
+
++ my name is *
+- Nice to meet you <star1>
+- Nice meeting you <star1>
+
++ thank you
+- You are welcome
+- Welcome
+- No problem
+- No worries!
+
++ *
+- Sorry did not get what you said 
+- I am afraid that I can not understand you 
+- Sorry can you please elaborate that for me 
+- I don't get it! 
+
+
+
+
++ Where *
+- Somewhere over the rainbow.
+- It's too cloudy to see.
+- Take a closer look to find out.
+- Have you ever thought about getting glasses to find that?
+
+
++ What *
+- This is a very good question.
+- It is exactly what you think it is.
+- You already know that yourself, don't you?
+- Don't be concerned.
+
++ How *
+- Do you really care about that?
+- Count to ten and ask again.
+- Keep an open mind.
+- Seek out more options.
+
++ Why *
+- Use your imagination.
+- Let it go.
+- You are hitting me with very deep questions today.
+- Do you really care about that?
+
++ When *
+- All in good time.
+- Trust the process.
+- You will not be dissapointed.
+- Take a chance.
+- Prepare for the unexpected
+- Wait.
+
++ Who *
+- Why do you want to know?
+- Someone who you'd least expect.
+- Be patient.
+- Perhaps someone you know?
+
+
++ Does *
+- Yes.
+- No. 
+- The situation is unclear.
+- Most likely
+- You will find out very soon.
+
++ Will *
+- There is no guarantee.
+- If you do as you are told.
+- You will need to consider other ways.
+- Take more time to decide.
+- Yes.
+- No.
+
+
+
+
+
+
+
+
+
