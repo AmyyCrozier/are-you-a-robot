@@ -1,57 +1,49 @@
 ! version = 2.0
 
 + hello
-- Hello! I am Bodhi the Bench! What is your name?
+- Hello! What is your name?
 
-+ _
-% hello what is your name
-- Nice to meet you <formal>!
 
-+ my name is *
-- Nice to meet you <star1>
-- Nice meeting you <star1>
++ my name is [*]
+- Nice to meet you <star1> my name is Bohdi the bench!
 
-+ thank you
-- You are welcome
-- Welcome
-- No problem
-- No worries!
++ what can you do for me?
+- I am an oracle, ask me a question I will give you the answer.
 
-+ *
+
++ [*]
 - Sorry did not get what you said 
 - I am afraid that I can not understand you 
 - Sorry can you please elaborate that for me 
 - I don't get it! 
 
 
-
-
-+ where *
++ [*] where * [*]
 - Somewhere over the rainbow.
 - It's too cloudy to see.
 - Take a closer look to find out.
 - Have you ever thought about getting glasses to find that?
 
 
-+ what *
++ [*] what * [*]
 - This is a very good question.
 - It is exactly what you think it is.
 - You already know that yourself, don't you?
 - Don't be concerned.
 
-+ how *
++ [*] how * [*]
 - Do you really care about that?
 - Count to ten and ask again.
 - Keep an open mind.
 - Seek out more options.
 
-+ why *
++ [*] why * [*]
 - Use your imagination.
 - Let it go.
 - You are hitting me with very deep questions today.
 - Do you really care about that?
 
-+ when *
++ [*] when * [*]
 - All in good time.
 - Trust the process.
 - You will not be dissapointed.
@@ -59,21 +51,21 @@
 - Prepare for the unexpected
 - Wait.
 
-+ who *
++ [*] who * [*]
 - Why do you want to know?
 - Someone who you'd least expect.
 - Be patient.
 - Perhaps someone you know?
 
 
-+ does *
++ [*] does * [*]
 - Yes.
 - No. 
 - The situation is unclear.
 - Most likely
 - You will find out very soon.
 
-+ will *
++ [*] will * 
 - There is no guarantee.
 - If you do as you are told.
 - You will need to consider other ways.
@@ -81,11 +73,17 @@
 - Yes.
 - No.
 
++ thank you
+- You are welcome
+- Welcome
+- No problem
+- No worries!
+
++ goodbye
+- Nice to meet you, hope I was able to answer you questions.
 
 
-
-
-
-
++ bye
+- Nice to meet you, hope I was able to answer your questions.
 
 
