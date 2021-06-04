@@ -3,11 +3,19 @@
 + hello
 - Hello! What is your name?
 
++ hi
+- Hello! What is your name?
 
-+ my name is [*]
++ [*] * [*]
+- Nice to meet you <star1>
+
++ [*] my name is * [*]
 - Nice to meet you <star1> my name is Bohdi the bench!
 
-+ what can you do for me?
++ what can you do for me
+- I am an oracle, ask me a question I will give you the answer.
+
++ what do you do
 - I am an oracle, ask me a question I will give you the answer.
 
 
@@ -80,11 +88,11 @@
 - No worries!
 
 + [*] goodbye * [*]
-- Nice to meet you, hope I was able to answer you questions.
+- Goodbye, hope I was able to answer you questions.
 
 
 + [*] bye * [*]
-- Nice to meet you, hope I was able to answer your questions.
+- Goodbye, hope I was able to answer your questions.
 
 
 

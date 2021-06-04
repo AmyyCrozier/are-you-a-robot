@@ -1,14 +1,15 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;800&display=swap");
+@import url("https://use.typekit.net/kis8clg/css2?family=Inter:wght@400;800&display=swap");
 
 * {
-  font-family: "Inter", Arial;
-  font-size: 12pt;
+  font-family: "hightower-text,serif"; 
+  font-weight: 400;
+  font-style: normal;
   margin: 0;
   box-sizing: border-box;
 }
 
 body {
-  background: #f2f2f2;
+  background-image: url("https://i.pinimg.com/originals/91/6a/04/916a0446025573d994eda5295085b37b.jpg") 
 }
 
 .title {
@@ -16,26 +17,28 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  background-color: blanchedalmond;
 }
 
 .title h1 {
   letter-spacing: 0.75px;
-  color: blueviolet;
+  color: black;
 }
 
 .wrapper {
-  height: 95vh;
+  height: 70vh;
 }
 
 .chat {
-  background: white;
-  box-shadow: 10px 10px 0px blueviolet;
-  overflow: scroll;
-  height: 100%;
-  display: flex;
-  flex-direction: column;
-  padding: 20px 20px 0px 20px;
-  border-radius: 10px;
+  background:  rgba(247, 230, 152, 0);
+  box-shadow:none;
+  overflow: auto;
+  height: 70%;
+  display:  -moz-stack;
+  flex-direction: row-reverse;
+  padding: 20px 20px 20px 20px;
+  border-radius: 80px;
+  color:
 }
 
 .messages {
@@ -63,26 +66,26 @@ body {
 .messages .bot {
   text-align: left;
   margin-right: auto;
-  background: black;
-  color: white;
+  background: rgb(255, 255, 255);
+  color: rgb(39, 25, 0);
 }
 
 .messages .self {
   text-align: right;
   margin-right: 20px;
   margin-left: auto;
-  background: white;
-  border: 1px solid blueviolet;
-  color: blueviolet;
+  background: rgb(255, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  color: black;
 }
 
 .actions {
   flex-shrink: 0;
-  width: 100%;
-  position: sticky;
-  bottom: -1px;
+  width: 10%;
+  position: fixed;
+  bottom: 100px;
   padding: 10px 0px 20px;
-  background: white;
+  background: ;
 }
 
 .actions input {
